@@ -1,6 +1,6 @@
 # Exercise 05: FBIjobs.gov Breach (ShinyHunters) - MITRE ATT&CK® Threat Mapping Analysis
 
-**Author:** Yehia Zakaria Lottfey Mohammed  
+**Author:** Yehia Zakaria
 **Date:** September 25, 2026  
 **Type:** Personal Training Exercise & Practice Threat Mapping  
 **Framework:** MITRE ATT&CK® Enterprise Framework  

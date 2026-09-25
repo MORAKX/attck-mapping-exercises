@@ -54,7 +54,7 @@ In September 2026, the cybercriminal threat group **ShinyHunters** claimed respo
 
 ---
 
-## 3. MITRE ATT&CK® Mapping Summary Table
+## 3. MITRE ATT&CK Mapping Summary Table
 
 | Stage | Behavior Description | MITRE ATT&CK Tactic | Technique Name | ID |
 | :--- | :--- | :--- | :--- | :--- |
